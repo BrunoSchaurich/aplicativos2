@@ -4,4 +4,6 @@ void main() {
   print("Digite o seu nome:");
   var input = stdin.readLineSync();
   print("Olá, me chamo$input");
+
+  print("commit para alteração no Github");
 }
